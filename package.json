@@ -5,7 +5,10 @@
   "name": "mapsApp",
   "version": "1.0.0",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "@types/faker": "^4.1.9",
+    "faker": "^4.1.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
